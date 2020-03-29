@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "greatestest astream",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "greatestest astream",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "even bestestest    dfsdfsdf",
+      "id": 3
+    },
+    {
+      "title": "Jenny Lewis",
+      "description": "still hot",
+      "id": 4
+    },
+    {
+      "title": "asdsdffsdf",
+      "description": "assfdlfkjsdfasf",
+      "userId": "107757387022036656667",
+      "id": 5
+    }
+  ]
+}
